@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Before posting, please make sure you check community.jitsi.org
+about: Before posting, please make sure you check https://community.jitsi.org
 
 ---
 
